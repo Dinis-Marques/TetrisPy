@@ -5,5 +5,6 @@ Due to the limited time spent learning PyGame, the project was initially based o
 
 
 References used:
-Tetris tutorial using PyGame: https://github.com/educ8s/Python-Tetris-Game-Pygame\n
+Tetris tutorial using PyGame: https://github.com/educ8s/Python-Tetris-Game-Pygame
+
 Main menu and button system: https://github.com/russs123/pygame_tutorials/tree/main/Button
